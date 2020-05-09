@@ -1,0 +1,34 @@
+@media (min-width:320px) {
+  .wrap {
+    font-size: 15px;
+  }
+}
+
+@media (min-width:481px) {
+  .wrap {
+    font-size: 25px;
+  }
+}
+@media (min-width:641px) {
+  .wrap {
+    font-size: 35px;
+  }
+}
+
+@media (min-width:961px) {
+  .wrap {
+    font-size: 45px;
+  }
+}
+
+@media (min-width:1025px) {
+  .wrap {
+    font-size: 55px;
+  }
+}
+
+@media (min-width:1281px) {
+  .wrap {
+    font-size: 65px;
+  }
+}
